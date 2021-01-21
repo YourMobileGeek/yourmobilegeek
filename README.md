@@ -2,7 +2,7 @@
 
 ## I'm a Creative Developer & Product Designer!
 - 👟 Co-Founder of [Sole360][startup]
-- 🌱 I’m currently learning everything about ReactJS 
+- 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript
 - 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job] 
 - ⚡ Fun fact: I love theme parks & rollercoasters 🎢
 
