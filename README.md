@@ -2,7 +2,7 @@
 
 ## I'm a Creative Developer & Product Designer!
 - 👟 Co-Founder of [Sole360][startup]
-- 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript
+- 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript + Product Design 
 - 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job] 
 - ⚡ Fun fact: I love theme parks & rollercoasters 🎢
 
@@ -12,7 +12,6 @@
 [<img align="left" alt="Ariana Davis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ariana Davis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ariana Davis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ariana Davis| Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Ariana Davis| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="Ariana Davis| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
@@ -36,6 +35,7 @@
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
 
 <br />
 <br />
