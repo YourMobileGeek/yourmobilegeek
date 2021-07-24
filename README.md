@@ -1,9 +1,9 @@
 ### Hi there, I'm [Ariana Davis][website] 👋🏽
 
 ## I'm a Creative Developer & Product Designer!
-- 👟 Co-Founder of [Sole360][startup]
+<!-- - 👟 Co-Founder of [Sole360][startup] -->
 - 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript + Product Design 
-- 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job] 
+<!-- - 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job]  -->
 - ⚡ Fun fact: I love theme parks & rollercoasters 🎢
 
 ### Connect with me:
