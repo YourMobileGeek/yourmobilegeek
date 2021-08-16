@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ariana Davis][website] 👋🏽
 
 ## I'm a Creative Developer & Product Designer!
-<!-- - 👟 Co-Founder of [Sole360][startup] -->
+💁🏽‍♀️ Co-Founder of [BeautySlot][startup]
 - 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript + Product Design 
 <!-- - 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job]  -->
 - ⚡ Fun fact: I love theme parks & rollercoasters 🎢
@@ -47,7 +47,7 @@
 
 [website]: https://yourmobilegeek.tech/
 [job]: http://warriors.com/
-[startup]: https://www.sole360.com/
+[startup]: https://www.thebeautyslot.com/
 [twitter]: https://twitter.com/yourmobilegeek
 [instagram]: https://instagram.com/yourmobilegeek
 [medium]: https://medium.com/@yourmobilegeek
