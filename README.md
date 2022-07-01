@@ -1,7 +1,6 @@
 ### Hi there, I'm [Ariana Davis][website] 👋🏽
 
 ## I'm a Creative Developer & Product Designer!
-- 💁🏽‍♀️ Co-Founder of [BeautySlot][startup]
 - 🌱 I’m currently learning everything about ReactJS + Node JS + TypeScript + Product Design 
 - ⚡ Fun fact: I love theme parks & rollercoasters 🎢
 <!-- - 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job]  -->
