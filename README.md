@@ -7,12 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yourmobilegeek.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="arianadavis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ariana Davis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ariana Davis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ariana Davis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ariana Davis| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="Ariana Davis| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br />
 
@@ -44,12 +42,9 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourmobilegeek&show_icons=true&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourmobilegeek&show_icons=true&locale=en&layout=compact" alt="yourmobilegeek" />
 
-[website]: https://yourmobilegeek.tech/
+[website]: https://www.arianadavis.com
 [job]: http://warriors.com/
-[startup]: https://www.thebeautyslot.com/
+[startup]: https://www.thebeautyslot.com
 [twitter]: https://twitter.com/yourmobilegeek
 [instagram]: https://instagram.com/yourmobilegeek
-[medium]: https://medium.com/@yourmobilegeek
 [linkedin]: https://www.linkedin.com/in/arianamdavis
-[dribbble]: https://dribbble.com/yourmobilegeek
-[behance]: https://www.behance.net/ArianaDavis
