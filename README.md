@@ -33,7 +33,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourmobilegeek&show_icons=true&locale=en&layout=compact" alt="yourmobilegeek" />
 
 [job]: http://keylime.digital
-[startup]: https://www.thebeautyslot.com
+[website]: https://www.thebeautyslot.com
 [twitter]: https://twitter.com/yourmobilegeek
 [instagram]: https://instagram.com/yourmobilegeek
 [linkedin]: https://www.linkedin.com/in/arianamdavis
