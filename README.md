@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ariana Davis][website] 👋🏽
 
-- 🚀 I’m a founder, product engineer, entrepreneur 
+- 🚀 I’m a founder, product engineer & entrepreneur 
 - 🌱 I’m currently learning everything front-end wise ( ReactJS, NextJS, TypeScript & Angular ) 
 - 👩🏽‍💻 I spend my weekdays building my digital product agency [Keylime Digital][job] 🍋‍🟩
 
