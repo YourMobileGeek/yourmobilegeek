@@ -2,7 +2,7 @@
 
 - 🚀 I’m a founder, product engineer, entrepreneur 
 - 🌱 I’m currently learning everything front-end wise ( ReactJS, NextJS, TypeScript & Angular ) 
-- 👩🏽‍💻 I spend my weekdays building digital products for the [The Golden State Warriors 🏀✨ ][job] 
+- 👩🏽‍💻 I spend my weekdays building my digital product agency [Keylime Digital][job] 🍋‍🟩
 
 ### Connect with me:
 [<img align="left" alt="Ariana Davis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -32,7 +32,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourmobilegeek&show_icons=true&locale=en&layout=compact" alt="yourmobilegeek" />
 
-[job]: http://warriors.com/
+[job]: http://keylime.digital
 [startup]: https://www.thebeautyslot.com
 [twitter]: https://twitter.com/yourmobilegeek
 [instagram]: https://instagram.com/yourmobilegeek
